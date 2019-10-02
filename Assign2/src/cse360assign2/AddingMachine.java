@@ -5,7 +5,7 @@ package cse360assign2;
 
 
 public class AddingMachine {
-
+	
 	private int total;
 	
 	//constructor to set the total to be equal to 0
